@@ -31,7 +31,7 @@ This project revolves around the implementation of the DPLL (Davis-Putnam-Logema
 2. Once that completes, open `plots.ipynb` and modify the file paths.
 3. Run all cells in `plots.ipynb` to view the results.
 
-## Feedback & Contributions
+## Feedback
 
 Feel free to open issues for any feedback to improve the project.
 
